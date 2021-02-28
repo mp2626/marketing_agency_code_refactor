@@ -39,6 +39,7 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    padding: 9px;
 }
 
 a {

@@ -1,4 +1,4 @@
-## marketing_agency_code_refactor
+## Marketing Agency Code Refactor
 Refactoring code to ensure that client's website meets accessibility standards.
 
 ## Work Complete
@@ -15,7 +15,7 @@ Refactoring code to ensure that client's website meets accessibility standards.
 ## Link to Git Hub
 https://github.com/mp2626/marketing_agency_code_refactor.git
 
-## link to site
+## link to Site
 https://mp2626.github.io/marketing_agency_code_refactor/
 
 ## Programming Languages

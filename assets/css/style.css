@@ -16,7 +16,7 @@ a {
     text-decoration: none;
 }
 
-/* Applies font size to all paragraphs  */
+/* Applies font size to all paragraphs */
 p {
     font-size: 16px;
 }
@@ -29,7 +29,7 @@ p {
     color: #ffffff;
 }
 
-/* Applies font size and display property to header h1*/
+/* Applies font size and display property to header h1 */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -92,8 +92,8 @@ p {
     max-height: 200px;
 }
 
-/* Applies styling to all h2 elements within the main element */
-.content h2 {
+/* Applies styling to all h1 elements within the main element */
+.content h1 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -130,8 +130,8 @@ some images within the main element */
     color: #ffffff;
 }
 
-/* Applies styling to all h3 within the aside element */
-.benefits h3 {
+/* Applies styling to all h1 within the aside element */
+.benefits h1 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -151,7 +151,7 @@ some images within the main element */
     text-align: center;
 }
 
-/* Applies styling to all h2 elements within the footer element */
-.footer h2 {
+/* Applies styling to all h1 elements within the footer element */
+.footer h1 {
     font-size: 20px;
 }
